@@ -1,4 +1,4 @@
-<import telebot
+import telebot
 import re
 import requests
 import time
