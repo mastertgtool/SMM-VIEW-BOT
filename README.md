@@ -13,8 +13,8 @@ Make sure you have Python installed. If not, you can download and install it fro
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/simple-view-bot.git
-   cd simple-view-bot
+   git clone https://github.com/mastertgtool/SMM-VIEW-BOT.git
+   cd SMM-VIEW-BOT
    ```
 
 2. Install the required modules:
