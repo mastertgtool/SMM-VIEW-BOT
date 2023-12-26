@@ -1,14 +1,14 @@
-import telebot
+<import telebot
 import re
 import requests
 import time
 from telebot.types import KeyboardButton, ReplyKeyboardMarkup, InlineKeyboardButton, InlineKeyboardMarkup
 from functions import insertUser, track_exists, addBalance, cutBalance, getData, addRefCount, isExists, setWelcomeStaus, setReferredStatus
 
-bot_token = "HereBotToken" #bot token from @BotFather
+bot_token = "6893770506:AAH-fyss4Tpc38EoI2C_IJptIm5Jf2iiEAI" #bot token from @BotFather
 SmmPanelApi = "smm api key" # api key from eadysmmpanel.com you can change api link
 bot = telebot.TeleBot(bot_token)
-admin_user_id = 5337150824
+admin_user_id = 6929450499
 welcome_bonus = 100
 ref_bonus = 500
 min_view = 100
